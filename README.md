@@ -1,1 +1,1 @@
-# ExamCenterAllocation
+# ExamCenterAllocation Tool using MySQL and Java
